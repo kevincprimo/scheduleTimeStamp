@@ -1,0 +1,14 @@
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\bin\Debug\net9.0\timeStampSchedule.exe
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\bin\Debug\net9.0\timeStampSchedule.deps.json
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\bin\Debug\net9.0\timeStampSchedule.runtimeconfig.json
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\bin\Debug\net9.0\timeStampSchedule.dll
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\bin\Debug\net9.0\timeStampSchedule.pdb
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.AssemblyInfoInputs.cache
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.AssemblyInfo.cs
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.dll
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\refint\timeStampSchedule.dll
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.pdb
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\timeStampSchedule.genruntimeconfig.cache
+C:\Users\Chuveiro Elétrico\Documents\TimeStamp\ScheduleTimestamp\timeStampSchedule\obj\Debug\net9.0\ref\timeStampSchedule.dll
